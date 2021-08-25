@@ -1,0 +1,17 @@
+br/com/freightcalculation/exceptions/LongerThanAllowedJourneyException.java
+ br.com.freightcalculation.exceptions.LongerThanAllowedJourneyException
+br/com/freightcalculation/contractors/Freight.java
+ br.com.freightcalculation.contractors.Freight
+br/com/freightcalculation/entities/OneDayExpressShipping.java
+ br.com.freightcalculation.entities.OneDayExpressShipping
+br/com/freightcalculation/contractors/ShippingType.java
+ br.com.freightcalculation.contractors.ShippingType
+ br.com.freightcalculation.contractors.ShippingType$1
+ br.com.freightcalculation.contractors.ShippingType$2
+ br.com.freightcalculation.contractors.ShippingType$3
+br/com/freightcalculation/entities/Normal.java
+ br.com.freightcalculation.entities.Normal
+br/com/freightcalculation/entities/ExpressFreight.java
+ br.com.freightcalculation.entities.ExpressFreight
+br/com/freightcalculation/runner/Main.java
+ br.com.freightcalculation.runner.Main
